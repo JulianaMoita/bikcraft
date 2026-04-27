@@ -12,3 +12,17 @@ ul{
 a{
   text-decoration: none;
 }
+
+img{
+  max-width: 100%; /*pra não estourar a tela ou container*/
+  display: block;
+}
+
+h1, p{
+  margin: 0px;
+}
+
+h1 span{
+  color: #FFBB00;
+}
+
