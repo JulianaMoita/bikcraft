@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Poppins;
 }
 
 ul{
@@ -9,13 +9,19 @@ ul{
   list-style: none;
 }
 
+li{
+  font-family: roboto;
+}
+
 a{
   text-decoration: none;
+  font-family: roboto;
 }
 
 img{
   max-width: 100%; /*pra não estourar a tela ou container*/
   display: block;
+  border-radius: 4px;
 }
 
 h1, p{

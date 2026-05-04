@@ -1,0 +1,10 @@
+/*EM TODO O SITE*/
+@import url("/css/global/global.css");
+@import url("/css/global/menu.css");
+
+/*UTILIDADES GERAIS*/
+@import url("/css/utilidades/componentes.css");
+@import url("/css/utilidades/cores.css");
+
+/*PÁGINA HOME*/
+@import url("/css/home/intro.css");
